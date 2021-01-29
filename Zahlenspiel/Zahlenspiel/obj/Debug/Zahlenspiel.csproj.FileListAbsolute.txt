@@ -1,0 +1,7 @@
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\bin\Debug\Zahlenspiel.exe.config
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\bin\Debug\Zahlenspiel.exe
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\bin\Debug\Zahlenspiel.pdb
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\obj\Debug\Zahlenspiel.csprojAssemblyReference.cache
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\obj\Debug\Zahlenspiel.csproj.CoreCompileInputs.cache
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\obj\Debug\Zahlenspiel.exe
+C:\Users\albie\source\repos\Übungen_Privat\Zahlenspiel\Zahlenspiel\obj\Debug\Zahlenspiel.pdb
