@@ -1,7 +1,0 @@
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\bin\Debug\2_Fache_KV-Tafel.exe.config
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\bin\Debug\2_Fache_KV-Tafel.exe
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\bin\Debug\2_Fache_KV-Tafel.pdb
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\obj\Debug\2_Fache_KV-Tafel.csprojAssemblyReference.cache
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\obj\Debug\2_Fache_KV-Tafel.csproj.CoreCompileInputs.cache
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\obj\Debug\2_Fache_KV-Tafel.exe
-C:\Users\albie\source\repos\Übungen_Privat\2_Fache_KV-Tafel\2_Fache_KV-Tafel\obj\Debug\2_Fache_KV-Tafel.pdb
